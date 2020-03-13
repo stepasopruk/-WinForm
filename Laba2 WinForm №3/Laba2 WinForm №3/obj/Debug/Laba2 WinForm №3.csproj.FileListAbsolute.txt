@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Laba2 WinForm №3\Laba2 WinForm №3\bin\Debug\Laba2 WinForm №3.exe.config
+C:\Users\user\source\repos\Laba2 WinForm №3\Laba2 WinForm №3\bin\Debug\Laba2 WinForm №3.exe
+C:\Users\user\source\repos\Laba2 WinForm №3\Laba2 WinForm №3\bin\Debug\Laba2 WinForm №3.pdb
+C:\Users\user\source\repos\Laba2 WinForm №3\Laba2 WinForm №3\obj\Debug\Laba2 WinForm №3.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Laba2 WinForm №3\Laba2 WinForm №3\obj\Debug\Laba2_WinForm__3.Form1.resources
+C:\Users\user\source\repos\Laba2 WinForm №3\Laba2 WinForm №3\obj\Debug\Laba2_WinForm__3.Properties.Resources.resources
+C:\Users\user\source\repos\Laba2 WinForm №3\Laba2 WinForm №3\obj\Debug\Laba2 WinForm №3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Laba2 WinForm №3\Laba2 WinForm №3\obj\Debug\Laba2 WinForm №3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Laba2 WinForm №3\Laba2 WinForm №3\obj\Debug\Laba2 WinForm №3.exe
+C:\Users\user\source\repos\Laba2 WinForm №3\Laba2 WinForm №3\obj\Debug\Laba2 WinForm №3.pdb
