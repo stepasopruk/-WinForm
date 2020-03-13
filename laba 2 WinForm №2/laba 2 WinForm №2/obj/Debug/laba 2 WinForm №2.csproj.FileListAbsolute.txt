@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\laba 2 WinForm №2\laba 2 WinForm №2\bin\Debug\laba 2 WinForm №2.exe.config
+C:\Users\user\source\repos\laba 2 WinForm №2\laba 2 WinForm №2\bin\Debug\laba 2 WinForm №2.exe
+C:\Users\user\source\repos\laba 2 WinForm №2\laba 2 WinForm №2\bin\Debug\laba 2 WinForm №2.pdb
+C:\Users\user\source\repos\laba 2 WinForm №2\laba 2 WinForm №2\obj\Debug\laba 2 WinForm №2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\laba 2 WinForm №2\laba 2 WinForm №2\obj\Debug\laba_2_WinForm__2.Form1.resources
+C:\Users\user\source\repos\laba 2 WinForm №2\laba 2 WinForm №2\obj\Debug\laba_2_WinForm__2.Properties.Resources.resources
+C:\Users\user\source\repos\laba 2 WinForm №2\laba 2 WinForm №2\obj\Debug\laba 2 WinForm №2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\laba 2 WinForm №2\laba 2 WinForm №2\obj\Debug\laba 2 WinForm №2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\laba 2 WinForm №2\laba 2 WinForm №2\obj\Debug\laba 2 WinForm №2.exe
+C:\Users\user\source\repos\laba 2 WinForm №2\laba 2 WinForm №2\obj\Debug\laba 2 WinForm №2.pdb
