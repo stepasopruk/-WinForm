@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\bin\Debug\laba WindowsForm.exe.config
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\bin\Debug\laba WindowsForm.exe
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\bin\Debug\laba WindowsForm.pdb
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\obj\Debug\laba WindowsForm.csprojAssemblyReference.cache
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\obj\Debug\laba_WindowsForm.Form1.resources
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\obj\Debug\laba_WindowsForm.Properties.Resources.resources
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\obj\Debug\laba_WindowsForm.Razrab.resources
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\obj\Debug\laba_WindowsForm.Resultat.resources
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\obj\Debug\laba WindowsForm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\obj\Debug\laba WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\obj\Debug\laba WindowsForm.exe
+C:\Users\user\source\repos\laba WindowsForm\laba WindowsForm\obj\Debug\laba WindowsForm.pdb
